@@ -1,0 +1,12 @@
+1) Install Ubuntu 14.04 64bit.
+
+2) Run as follows.
+-------------------------------------------------------------------------------
+$ sudo apt-get update
+$ sudo apt-get install git libclutter-gst-2.0-dev gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
+$ git clone https://bitbucket.org/ohhara/ohmultivideoplayer.git
+$ cd ohmultivideoplayer
+$ ./configure
+$ make
+$ ./omvp
+-------------------------------------------------------------------------------

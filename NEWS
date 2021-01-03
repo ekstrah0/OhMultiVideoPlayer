@@ -1,0 +1,45 @@
+Oh! Multi Video Player 0.9                                           2016-02-23
+===============================================================================
+* Improve m3u parser stability.
+
+Oh! Multi Video Player 0.8                                           2016-02-11
+===============================================================================
+* Support rtp protocol.
+* Support m3u playlist.
+
+Oh! Multi Video Player 0.7                                           2016-02-10
+===============================================================================
+* Improve ortp protocol stability.
+
+Oh! Multi Video Player 0.6                                           2016-02-09
+===============================================================================
+* Make zoom in/out much more natural.
+* Make texture showing animation more natural.
+* Add omvprtpsrc gst plugin.
+  - Add ortp protocol. Support ortp://address:port format uri.
+
+Oh! Multi Video Player 0.5                                           2016-01-31
+===============================================================================
+* Fix animation related memory leaks.
+* Make zoom in/out more natural.
+* Improve audio play stability.
+
+Oh! Multi Video Player 0.4                                           2016-01-29
+===============================================================================
+* Handle decoding error situation.
+* Improve stability.
+* Improve documents.
+
+Oh! Multi Video Player 0.3                                           2016-01-21
+===============================================================================
+* Support autoconf.
+* Improve stability.
+* Optimize video scan scheduling.
+
+Oh! Multi Video Player 0.2                                           2016-01-19
+===============================================================================
+* Support clutter-gst-3.0.
+
+Oh! Multi Video Player 0.1                                           2016-01-16
+===============================================================================
+* Initial release.

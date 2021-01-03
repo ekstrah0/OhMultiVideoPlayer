@@ -1,0 +1,10 @@
+omvp
+.deps
+.libs
+*.o
+*.exe
+autom4te.cache
+config.*
+stamp-h1
+libtool
+Makefile

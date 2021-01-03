@@ -1,0 +1,13 @@
+1) Install Mac OS X El Capitan Version 10.11.6
+
+2) Install Homebrew from http://brew.sh
+
+3) Run as follows.
+-------------------------------------------------------------------------------
+$ brew install clutter-gst gstreamer gst-plugins-good gst-plugins-bad gst-plugins-ugly gst-libav
+$ git clone https://bitbucket.org/ohhara/ohmultivideoplayer.git
+$ cd ohmultivideoplayer
+$ ./configure
+$ make
+$ ./omvp
+-------------------------------------------------------------------------------

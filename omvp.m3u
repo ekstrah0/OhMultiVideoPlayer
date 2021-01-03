@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:1,Level3 ch1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:2,Level3 ch2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
+#EXTINF:3,Level3 ch3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
+#EXTINF:4,BitGravity
+http://twit.live-s.cdn.bitgravity.com/cdn-live/_definst_/twit/live/low/playlist.m3u8

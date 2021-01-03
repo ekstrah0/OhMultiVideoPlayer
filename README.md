@@ -57,3 +57,4 @@ please contact me to discuss about other license options.
 
 Written by Taeho Oh <ohhara@postech.edu>
 http://ohhara.sarang.net/omvp
+Updated by Dongho Kim <dongho@ekstrah.com>
